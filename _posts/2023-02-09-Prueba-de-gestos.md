@@ -7,8 +7,8 @@ permalink: /gestos-prueba/
 Probando gestos con el rig de la cara.
 
 <div align="center">
-<a href="/assets/imagenes/gestos.png" target="_blank">
-<img src="/assets/imagenes/gestos.png" alt="Gestos">
+<a href="../assets/imagenes/gestos.png" target="_blank">
+<img src="../assets/imagenes/gestos.png" alt="Gestos">
 </a>
 </div>
 
