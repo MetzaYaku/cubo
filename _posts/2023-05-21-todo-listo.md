@@ -7,8 +7,8 @@ permalink: /todo-listo/
 Sentadito en una silla, ahora sí todo está listo para animar.
 
 <div align="center">
-<a href="/assets/imagenes/primer-render.png" target="_blank">
-<img src="/assets/imagenes/primer-render.png" alt="Sentado en una silla">
+<a href="cubo/assets/imagenes/primer-render.png" target="_blank">
+<img src="cubo/assets/imagenes/primer-render.png" alt="Sentado en una silla">
 </a>
 </div>
 
