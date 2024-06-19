@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
- Cubo es un Proyecto de animación que fue realizado usando únicamente software libre como: Blender, GIMP, Krita, Audacity, libre office, KIT Scenarist, etc. Espero que lo disfruten
+ Cubo es un Proyecto de animación que está siendo realizado usando únicamente software libre como: Blender, GIMP, Krita, Audacity, libre office, KIT Scenarist, etc. Espero que lo disfruten
 
 # Build settings
 
