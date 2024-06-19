@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Esbribiendo el guion técnico"
+title: "Escribiendo el guion técnico"
 categories: blog
 permalink: /li9bre-office/
 ---
