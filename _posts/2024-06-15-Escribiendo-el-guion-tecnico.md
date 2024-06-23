@@ -2,7 +2,7 @@
 layout: post
 title: "Escribiendo el guion técnico"
 categories: blog
-permalink: /li9bre-office/
+permalink: /libre-office/
 ---
 Para esta ocasión estoy usando libre office - Writer, es mi procesador de texto favorito, el aquivalente a word. 
 <div align="center">
